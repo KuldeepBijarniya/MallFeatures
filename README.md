@@ -23,7 +23,7 @@ This project is a Mall Management System implemented in C++. It allows users to 
 
 4. **Checkout:**
    - Users can proceed to checkout after reviewing their selected items.
-   - A bill is generated with user details, selected items, and payment information.
+   - A bill with user details, selected items, and payment information is generated.
    - The bill is displayed for the user.
 
 ### GUI Implementation (Python)
@@ -49,24 +49,24 @@ This part of the project adds a graphical user interface (GUI) to the Mall Manag
    - Keyboard shortcuts (Enter, Delete, Arrow keys) are supported for navigation and removal.
 
 4. **Total Amount:**
-   - Users can view the total amount to be paid for items in the shopping cart.
+   - Users can view the total amount paid for items in the shopping cart.
 
 5. **Checkout:**
    - Users can proceed to checkout after reviewing their selected items.
-   - A bill is generated with user details, selected items, and payment information.
+   - A bill with user details, selected items, and payment information is generated.
    - The bill is saved as a text file for future reference.
 
 #### How to Run
 
-1. Install Python: Make sure you have Python installed on your system. If not, you can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/).
+1. Install Python: Make sure you install Python on your system. If not, you can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/).
 
 2. Clone the Repository: Clone this GitHub repository to your local machine.
 
    ```
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/KuldeepBijarniya/MallFeatures.git
    ```
 
-3. Navigate to the Project Directory: Use the terminal or command prompt to navigate to the project directory.
+3. Navigate to the Project Directory: Use the terminal or command prompt to navigate the project directory.
 
    ```
    cd Mall-Management-System
@@ -74,12 +74,12 @@ This part of the project adds a graphical user interface (GUI) to the Mall Manag
 
 4. Install Required Libraries: The GUI part uses the Tkinter library for GUI. Tkinter is usually included with standard Python installations.
 
-5. Run the Application: Run the Python script `mall_management_system.py` using the following command:
+5. Run the Application: Run the Python script `MallFeaturesGUI.py` using the following command:
 
    ```
-   python mall_management_system.py
+   python MallFeaturesGUI.py
    ```
 
-6. Use the Application: The application's GUI will open. You can register, log in, and start exploring the mall's items, adding them to the cart, and checking out.
+6. Use the Application: The application's GUI will open. You can register, log in, and explore the mall's items, add them to the cart, and check out.
 
 **Note:** The project's GUI functionality may vary based on the Python environment and OS you're using.
